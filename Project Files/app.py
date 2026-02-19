@@ -1,8 +1,3 @@
-# ================================
-# Civil Engineering Insight Studio
-# Final app.py (Milestone 4)
-# ================================
-
 import streamlit as st
 from PIL import Image
 from dotenv import load_dotenv
